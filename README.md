@@ -1,6 +1,6 @@
 # CompliantAvatarCreator
 
-A [NeosModLoader](https://github.com/zkxs/NeosModLoader) mod for [Neos VR](https://neos.com/) that allows you to stop that irritating snapping on when trying to set up an avatar in certain sessions (Especially when in a Headless session).
+A [NeosModLoader](https://github.com/zkxs/NeosModLoader) mod for [Neos VR](https://neos.com/) that allows you to stop that annoying snapping on when trying to set up an avatar in certain sessions (Especially when in a Headless session).
 
 ## Installation
 1. Install [NeosModLoader](https://github.com/zkxs/NeosModLoader).
